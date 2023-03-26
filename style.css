@@ -1,0 +1,13 @@
+.result {
+    margin-top: 30px;
+    font-size: 1.5rem;
+  }
+  
+  .result p {
+    margin-bottom: 10px;
+  }
+  
+  .result span {
+    font-weight: bold;
+  }
+  
